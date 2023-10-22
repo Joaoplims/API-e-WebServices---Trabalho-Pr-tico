@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cripto": "^1.1.4",
+    "express": "^4.18.2"
+  }
+}
